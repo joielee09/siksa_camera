@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-siksacamera-dev-14049-authRole",
+      "UnauthRoleArn": "arn:aws:iam::265480965462:role/amplify-siksacamera-dev-14049-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::265480965462:role/amplify-siksacamera-dev-14049-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-siksacamera-dev-14049-deployment",
+      "UnauthRoleName": "amplify-siksacamera-dev-14049-unauthRole",
+      "StackName": "amplify-siksacamera-dev-14049",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:265480965462:stack/amplify-siksacamera-dev-14049/f8bfd790-38aa-11eb-8366-02659e2942c4",
+      "AmplifyAppId": "d1qcof7q09slqh"
+    }
+  }
+}
